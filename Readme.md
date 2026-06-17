@@ -12,9 +12,8 @@
 
 ## 💡 About Me
 
-* 🎓 Pursuing B.Tech in Computer Science & Engineering at MIT ADT University, Pune
 * ☕ Passionate about Java Backend Development and Software Engineering
-* 🌱 Currently learning Spring Boot, Spring Security, JWT, Docker, and Cloud Deployment
+* 🌱 Currently learning Spring Boot, Spring Technologies. 
 * 🔬 Published IEEE Research Paper on EEG Transfer Learning for Brain-Computer Interface Applications
 * 🚀 Interested in Backend Systems and Scalable Applications
 * 📚 Always exploring new technologies and improving problem-solving skills
