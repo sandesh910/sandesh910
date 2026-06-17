@@ -16,7 +16,6 @@
 * 🌱 Currently learning Spring Boot, Spring Technologies. 
 * 🔬 Published IEEE Research Paper on EEG Transfer Learning for Brain-Computer Interface Applications
 * 🚀 Interested in Backend Systems and Scalable Applications
-* 📄 IEEE Research Publication on EEG Transfer Learning
 * 📚 Always exploring new technologies and improving problem-solving skills
 
 ---
