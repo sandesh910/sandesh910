@@ -16,6 +16,7 @@
 * 🌱 Currently learning Spring Boot, Spring Technologies. 
 * 🔬 Published IEEE Research Paper on EEG Transfer Learning for Brain-Computer Interface Applications
 * 🚀 Interested in Backend Systems and Scalable Applications
+* 📄 IEEE Research Publication on EEG Transfer Learning
 * 📚 Always exploring new technologies and improving problem-solving skills
 
 ---
@@ -41,26 +42,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipseide)
-
----
-
-## 📌 Featured Projects
-
-### 🧠 EEG Transfer Learning
-
-Transfer Learning framework for EEG-based Brain-Computer Interface applications using PyTorch, EEGNet, Autoencoders, DeepConvNet, and advanced EEG preprocessing techniques.
-
-### 🌐 CogniCare
-
-Web-based cognitive support platform featuring interactive games, progress tracking, and cognitive assessment tools.
-
----
-
-## 🏆 Achievements
-
-* 📄 IEEE Research Publication on EEG Transfer Learning
-* 👨‍💼 Vice President – IEEE Computer Society
-* 🎯 Active participant in technical events, and hackathons
 
 ---
 
