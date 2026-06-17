@@ -74,7 +74,7 @@ Web-based cognitive support platform featuring interactive games, progress track
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sandesh-mutadak-52b101295/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandesh-mutadak-52b101295/)
 
 📧 Email: sandeshmurtadak@gmail.com
 
