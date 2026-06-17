@@ -2,7 +2,7 @@
 
 # Hello 👋, I'm Sandesh Mutadak
 
-### Java Backend Developer | B.Tech CSE Student 
+### Java Backend Developer | 3rd Year B.Tech CSE Student 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
