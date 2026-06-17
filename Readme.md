@@ -60,7 +60,6 @@ Web-based cognitive support platform featuring interactive games, progress track
 
 * 📄 IEEE Research Publication on EEG Transfer Learning
 * 👨‍💼 Vice President – IEEE Computer Society
-* 🤝 Management Lead – IEEE Student Branch
 * 🎯 Active participant in technical events, and hackathons
 
 ---
