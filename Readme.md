@@ -68,7 +68,6 @@ Web-based cognitive support platform featuring interactive games, progress track
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandesh910\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh910\&layout=compact\&theme=tokyonight)
 
