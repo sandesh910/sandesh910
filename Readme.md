@@ -4,7 +4,9 @@
 
 ### Java Backend Developer | B.Tech CSE Student 
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
+<div align="center">
+  <img src="assets/developer.gif" width="350"/>
+</div>
 
 </div>
 
